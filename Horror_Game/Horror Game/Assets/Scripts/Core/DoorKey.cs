@@ -43,7 +43,7 @@ namespace SunTemple
         {
             if (inTrigger)
             {
-                GUI.Box(new Rect(0, 0, 200, 200), "Press E to Pickup");
+                GUI.Box(new Rect(0, 0, 100, 100), "Press E to Pickup");
            }
         }
     }
