@@ -2,7 +2,7 @@
 
 # The Disappearance
 
-## Link: https://nocturna1.itch.io/disappearance
+## Link: https://nocturna1.itch.io/the-dissapearance
 
 A terrifying atmospheric story-driven horror game.
 
