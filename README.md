@@ -4,9 +4,12 @@
 
 ## Link: https://nocturna1.itch.io/the-dissapearance
 
-A terrifying atmospheric story-driven horror game.
 
-One night you wake up and discover that your family has disappeared along with the entire population of the town you live in. As you search for your kids, you experience supernatural events all around you. Avoid the demonic witch that roams the city hunting for remaining survivors.
+## Game Description 
+
+* A terrifying atmospheric story-driven horror game.
+
+* One night you wake up and discover that your family has disappeared along with the entire population of the town you live in. As you search for your kids, you experience supernatural events all around you. Avoid the demonic witch that roams the city hunting for remaining survivors.
 
 ### Controls
 
