@@ -5,7 +5,7 @@
 ## Link: https://nocturna1.itch.io/the-dissapearance
 
 
-## Game Description 
+## Game Description  
 
 * A terrifying atmospheric story-driven horror game.
 
