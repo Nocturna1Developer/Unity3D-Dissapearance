@@ -1,9 +1,6 @@
-# Unity3D-Horror-Game
-
 # The Disappearance
 
 ## Link: https://nocturna1.itch.io/the-dissapearance
-
 
 ## Game Description  
 
