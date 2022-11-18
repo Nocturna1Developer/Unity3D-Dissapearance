@@ -31,7 +31,3 @@
 * Conifer (BOTD)
 
 I made this game for fun using only free assets from the Unity Store. :)
-
-### Tags
-
-#horror #action #adventure #survival #storyrich #firstperson #3D #Unity #objectives #singleplayer #atmospheric #ambient #night #indie  #supernatural #mystery #storydriven #story #scary #medieval #foggy #witch #Ai #monster #explore #other #immersive
