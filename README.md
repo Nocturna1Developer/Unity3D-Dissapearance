@@ -1,6 +1,8 @@
 # The Disappearance
 
-## Link: https://nocturna1.itch.io/the-dissapearance
+## PLAY HERE: https://nocturna1.itch.io/the-dissapearance
+
+## WATCH HERE: <https://www.youtube.com/watch?v=OprsYiEykEE&list=PLs_4rBValRlRsv5RgWV-eRb6QP06JnjH5&index=3&ab_channel=NOKTURNALLGAMEDEV>
 
 ## Game Description  
 
